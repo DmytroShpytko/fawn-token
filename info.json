@@ -1,0 +1,11 @@
+{
+    "name": "Fawn Coin",
+    "symbol": "FAWN",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "A meme token made for fun and chaos.",
+    "website": "https://example.com",
+    "explorer": "https://bscscan.com/token/0x17a16a6aC34151B8d0cC69a65b3f81C826366F1F",
+    "status": "active",
+    "id": "fawncoin"
+}
